@@ -1,0 +1,20 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = apartment 4 
+
+## Media
+
+### Title
+panorama_D067B56B_D99C_FCC1_41DF_1B6F8E68B8DD.label = 02
+panorama_D0694C7B_D99D_2CC1_41DC_7A1419AF5255.label = 06
+panorama_D0695411_D99C_DC41_41E7_077C1926A15B.label = 04
+panorama_D069B8DD_D99C_F5C1_41D1_1930D2CB54C2.label = 03
+panorama_D069E117_D99D_5441_41B6_B97E805D5FEC.label = 07
+panorama_D069E560_D99D_5CC0_41E7_52F9309DC3F9.label = 08
+panorama_D069FFF9_D99D_2BC0_41E0_E359718ACB06.label = 05
+panorama_D24C2FED_D99C_EBC1_41E9_6B0E9E76518C.label = 01
